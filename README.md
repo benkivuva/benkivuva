@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://github.benkivuva)
 <h1 align="center">Hi 👋, I'm Benson Kivuva</h1>
 <h3 align="center">A passionate Data Scientist and Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/hacking-gif-20202201">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benkivuva&label=Profile%20views&color=0e75b6&style=flat" alt="benkivuva" /> </p>
 
